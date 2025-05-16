@@ -14,10 +14,10 @@ BACKEND:
 
 
 
-FRONTEND
+# FRONTEND ROADMAP
+# INITIAL PROGRAM
 
-# WEEK 1  
-## Programming fundamentals and logic
+## WEEK 1 Programming fundamentals and logic
 
 ✅ **Concepts**:  
 - Variables  
@@ -36,8 +36,7 @@ FRONTEND
 - Practice with loops (`for`, `while`)  
 
 
-# WEEK 2  
-## JavaScript: the basics
+# WEEK 2 JavaScript: the basics
 
 ✅ **Concepts**:  
 - Variables (`var`, `let`, `const`)  
@@ -52,8 +51,7 @@ FRONTEND
 
 ---
 
-# WEEK 3  
-## Flow control and loops
+# WEEK 3 Flow control and loops
 
 ✅ **Concepts**:  
 - `if/else`  
@@ -68,8 +66,7 @@ FRONTEND
 
 ---
 
-# WEEK 4  
-## Functions and scope
+# WEEK 4 Functions and scope
 
 ✅ **Concepts**:  
 - Declared functions  
@@ -86,8 +83,7 @@ FRONTEND
 
 ---
 
-# WEEK 5  
-## Objects, arrays and data structures
+# WEEK 5 Objects, arrays and data structures
 
 ✅ **Concepts**:  
 - Arrays  
@@ -103,8 +99,7 @@ FRONTEND
 
 ---
 
-# WEEK 6  
-## Asynchrony and error handling
+# WEEK 6 Asynchrony and error handling
 
 ✅ **Concepts**:  
 - Callbacks  
@@ -119,8 +114,7 @@ FRONTEND
 
 ---
 
-# WEEK 7  
-## Classes, modules and iterators
+# WEEK 7 Classes, modules and iterators
 
 ✅ **Concepts**:  
 - Classes  
@@ -136,8 +130,7 @@ FRONTEND
 
 ---
 
-# WEEK 8  
-## TypeScript and ecosystem tools
+# WEEK 8 TypeScript and ecosystem tools
 
 ✅ **Concepts**:  
 - Types  
@@ -152,13 +145,114 @@ FRONTEND
 - Read about Angular as a next step  
 
 
+# INTERMEDIATE PROGRAM
+
+# Week 1 – Advanced HTML5 and CSS3
+
+## Topics Covered
+
+🔹 Semantic HTML  
+🔹 Accessible Forms  
+🔹 Layouts with Flexbox and Grid  
+🔹 Responsive CSS (media queries)  
+🔹 Basic SEO  
+
+
+# Week 2 – Tailwind CSS + CSS Architecture
+
+## Topics Covered
+
+🔹 Tailwind Syntax  
+🔹 Using Utility Classes  
+🔹 Customization with `tailwind.config.js`  
+🔹 Reusable Components  
+🔹 Introduction to BEM Architecture and CSS Modules  
+
+
+# Week 3 – Sass and PostCSS
+
+## Topics Covered
+
+🔹 Variables, Mixins, Nesting, Functions  
+🔹 Using `@use`, `@forward`, `@extend`  
+🔹 PostCSS Configuration with Vite  
+🔹 Style Automation and Browser Compatibility  
+
+
+# Week 4 – Vite and Development Tools
+
+## Topics Covered
+
+🔹 What is Vite? Why it replaces Webpack  
+🔹 Project Setup with Angular + Vite  
+🔹 Hot Module Replacement (HMR)  
+🔹 Integration with Tailwind, PostCSS, and Sass  
+🔹 Using Prettier and ESLint  
+
+
+# Week 5 – Angular: Fundamentals
+
+## Topics Covered
+
+🔹 Angular Architecture  
+🔹 Components, Templates, and Binding  
+🔹 CLI and Folder Structure  
+🔹 Services and Dependency Injection  
+🔹 Pipes, Directives, and Lifecycle Hooks  
+
+
+# Week 6 – Angular Forms + Routing
+
+## Topics Covered
+
+🔹 Template-Driven vs Reactive Forms  
+🔹 Custom Validations  
+🔹 Routing: Child Routes and Lazy Loading  
+🔹 Guards, Resolvers, and Programmatic Navigation  
+
+
+# Week 7 – API Consumption + Observables
+
+## Topics Covered
+
+🔹 HttpClientModule and Services  
+🔹 Using RxJS (Observables, Operators like `map`, `filter`, `mergeMap`)  
+🔹 Component Communication via Services  
+🔹 Loading Spinner and Error Handling  
 
 
 
+# Week 8 – Advanced TypeScript + Angular Internals
+
+## Topics Covered
+
+🔹 Generics, Utility Types, and Extendable Interfaces  
+🔹 Decorators, Metadata, and Annotations  
+🔹 ViewChild, ContentChild, and NgZone  
+🔹 Modules and Dependencies  
 
 
 
+# Week 9 – Testing + Best Practices
 
+## Topics Covered
+
+🔹 Unit Testing with Jasmine and Karma  
+🔹 End-to-End Testing with Cypress  
+🔹 Testing Forms, Services, and Components  
+🔹 Clean Architecture: Domain-Based Separation  
+🔹 Clean Code and SOLID Principles in Angular  
+
+
+# Week 10 – Final Project + Performance
+
+## Topics Covered
+
+🔹 CRUD Project with Angular + Tailwind + Vite  
+🔹 Animations, Lazy Loading, and Preloading  
+🔹 Bundle Optimization  
+🔹 Lighthouse, DevTools, and Metrics (CLS, FID, LCP)  
+🔹 Deployment on Vercel or Firebase  
 
 
 
